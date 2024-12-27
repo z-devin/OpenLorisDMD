@@ -10,7 +10,7 @@
 
 ### Approach
 
-Step 1: Data Loading and Preprocessing
-Step 2: DMD Analysis across Environmental Factors
-Step 3: Comparative Analysis Across Environmental Factors
-Step 4: Reconstruction Quality Analysis
+ - Data Loading and Preprocessing
+ - DMD Analysis across Environmental Factors
+ - Comparative Analysis Across Environmental Factors
+ - Reconstruction Quality Analysis
